@@ -122,7 +122,11 @@ npm run dev
 
 - ✉️ Email Integration
   - Contact form using EmailJS
+## 🙏 Credit
 
+- **Lohit Kolluri** – Original creator and developer
+  
+Special thanks to [Lohit Kolluri]([https://github.com/lohitkolluri](https://github.com/lohitkolluri/Portfolio-Website)) for the awesome portfolio template!
 ## 📄 License
 
 <div align="center">
