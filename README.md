@@ -1,6 +1,5 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Portfolio%20Website%20V2&fontSize=80&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -47,7 +46,7 @@ mindmap
 
 ## 🚀 Demo
 
-Experience the live portfolio at [https://portfolio-lohit.vercel.app](https://portfolio-lohit.vercel.app)
+https://anushka-gurav.github.io/Anushka-portfolio/
 
 ## 🛠️ Installation
 
@@ -75,9 +74,7 @@ npm install
 npm run dev
 ```
 
-5️⃣ Open in browser:
 
-- Visit [http://localhost:3000](http://localhost:3000)
 
 ## 💻 Tech Stack
 
@@ -129,7 +126,7 @@ npm run dev
 ## 📄 License
 
 <div align="center">
-
+Credit : 
 MIT License © [Lohit Kolluri](LICENSE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
