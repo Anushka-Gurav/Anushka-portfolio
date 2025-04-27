@@ -122,6 +122,7 @@ const Contact = () => {
             placeholder="What's your email address?"
             type="email"
           />
+          <a href="https://www.linkedin.com/in/anushka-gurav-39066a314/">LinkedIn</a>
           {emailError && <span className="text-red-500">{emailError}</span>}
 
           <InputField

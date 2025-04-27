@@ -57,7 +57,7 @@ export const technologies = [
 
 export const experiences = [
   {
-    title: "Industrail Training in Web",
+    title: "Industrial Training in Web",
     company_name: "Happy Visitors Dot Com | MSBTE",
     icon: eduskill,
     iconBg: "#161329",
