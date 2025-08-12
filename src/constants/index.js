@@ -66,6 +66,16 @@ export const experiences = [
       "Completed a 6-week full-time industrial training program focused on Advanced trends in web development, gaining practical knowledge in modern web technologies."," Gained in-depth knowledge of web technologies like HTML and CSS, and acquired skills in hosting websites on servers,purchasing domains, and creating business accounts.",
     ],
   },
+  {
+    title: "Industrial Training in Web",
+    company_name: "Happy Visitors Dot Com | MSBTE",
+    icon: eduskill,
+    iconBg: "#161329",
+    date: "July 2023 - Aug 2023",
+    points: [
+      "Completed a 6-week full-time industrial training program focused on Advanced trends in web development, gaining practical knowledge in modern web technologies."," Gained in-depth knowledge of web technologies like HTML and CSS, and acquired skills in hosting websites on servers,purchasing domains, and creating business accounts.",
+    ],
+  },
   // {
   //   title: "Upcoming Technical Intern in Cisco",
   //   company_name: "Technical Intern I | CWIP",
