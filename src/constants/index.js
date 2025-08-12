@@ -11,13 +11,13 @@ import {
   nodejs,
   git,
   edunet,
+  mathwork,
   weatherpedia,
   termpw,
   payloadmaster,
   threejs,
   mhft,
   sketcher,
-  mathwork,
   CompileVortex,
   eduskill,
 } from "../assets";
@@ -57,14 +57,17 @@ export const technologies = [
 
 export const experiences = [
   {
-    title: "Industrial Training in Web",
-    company_name: "Happy Visitors Dot Com | MSBTE",
-    icon: eduskill,
+    title: "Sumer Internship (2 months)",
+    company_name: "Cisco | Technical Intern I",
+    icon: mathwork,
     iconBg: "#161329",
-    date: "July 2023 - Aug 2023",
+    date: "June 2025 - Aug 2025",
     points: [
-      "Completed a 6-week full-time industrial training program focused on Advanced trends in web development, gaining practical knowledge in modern web technologies."," Gained in-depth knowledge of web technologies like HTML and CSS, and acquired skills in hosting websites on servers,purchasing domains, and creating business accounts.",
+      "Gained Hands-on Experience in Load Balancing (IOS-XR) - Worked within the Distributed System Engineering team to understand and explore load balancing mechanisms, focusing on performance and scalability in high-throughput router environments.",
+      "Improved Test Stability and Contributed to Production Code - Resolved flaky test cases in Load Balancing General and Hashing Characterization modules by analyzing logs and identifying root causes. Implemented reliable fixes, raised detailed PRs, and ensured smooth integration through testing.",
     ],
+    
+    
   },
   {
     title: "Industrial Training in Web",
