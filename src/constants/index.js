@@ -57,7 +57,7 @@ export const technologies = [
 
 export const experiences = [
   {
-    title: "Sumer Internship (2 months)",
+    title: "Summer Internship (2 months)",
     company_name: "Cisco | Technical Intern I",
     icon: mathwork,
     iconBg: "#161329",
